@@ -3,7 +3,7 @@ import json
 from pathlib import Path
 
 # Rutas
-EXCEL_PATH = "../excel/biologia_general_01.xlsx"
+EXCEL_PATH = "../excel/test-excel-1.xlsx"
 INDEX_PATH = "../index.json"
 
 # Leer Excel
