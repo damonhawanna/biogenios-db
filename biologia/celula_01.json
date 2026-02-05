@@ -1,0 +1,70 @@
+{
+  "id": "bio_celula_01",
+  "tema": "Biología Celular",
+  "descripcion": "Preguntas fundamentales sobre estructuras y funciones celulares.",
+  "dificultad": "Fácil",
+  "autor": "Biogenios",
+  "total_preguntas": 5,
+  "preguntas": [
+    {
+      "id": 1,
+      "pregunta": "¿Cuál es la función principal de la membrana plasmática?",
+      "opciones": [
+        "Controlar el ingreso y salida de sustancias",
+        "Producir energía luminosa",
+        "Formar gametos",
+        "Sintetizar ADN",
+        "Almacenar minerales"
+      ],
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 2,
+      "pregunta": "Organelo encargado de la respiración celular:",
+      "opciones": [
+        "Ribosoma",
+        "Mitocondria",
+        "Lisosoma",
+        "Aparato de Golgi",
+        "Núcleo"
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 3,
+      "pregunta": "¿Dónde se encuentra el material genético en células eucariotas?",
+      "opciones": [
+        "En la pared celular",
+        "En el citoplasma",
+        "En el núcleo",
+        "En los ribosomas",
+        "En los lisosomas"
+      ],
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 4,
+      "pregunta": "Organelo que modifica y empaqueta proteínas:",
+      "opciones": [
+        "Cloroplasto",
+        "Vacuola",
+        "Centríolo",
+        "Aparato de Golgi",
+        "Peroxisoma"
+      ],
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 5,
+      "pregunta": "Estructura presente solo en células vegetales:",
+      "opciones": [
+        "Mitocondria",
+        "Membrana plasmática",
+        "Ribosomas",
+        "Núcleo",
+        "Pared celular"
+      ],
+      "respuesta_correcta": "E"
+    }
+  ]
+}
