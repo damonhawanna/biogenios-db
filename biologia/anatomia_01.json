@@ -1,0 +1,70 @@
+{
+  "id": "bio_anatomia_01",
+  "tema": "Anatomía Humana",
+  "descripcion": "Preguntas sobre sistemas del cuerpo humano.",
+  "dificultad": "Media",
+  "autor": "Biogenios",
+  "total_preguntas": 5,
+  "preguntas": [
+    {
+      "id": 1,
+      "pregunta": "Órgano principal del sistema circulatorio:",
+      "opciones": [
+        "Corazón",
+        "Pulmón",
+        "Riñón",
+        "Hígado",
+        "Estómago"
+      ],
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 2,
+      "pregunta": "Los pulmones pertenecen al sistema:",
+      "opciones": [
+        "Digestivo",
+        "Respiratorio",
+        "Nervioso",
+        "Óseo",
+        "Endocrino"
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 3,
+      "pregunta": "El órgano que filtra la sangre es:",
+      "opciones": [
+        "Estómago",
+        "Corazón",
+        "Riñón",
+        "Pulmón",
+        "Páncreas"
+      ],
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 4,
+      "pregunta": "El cerebro forma parte del sistema:",
+      "opciones": [
+        "Circulatorio",
+        "Digestivo",
+        "Óseo",
+        "Nervioso",
+        "Respiratorio"
+      ],
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 5,
+      "pregunta": "Los huesos pertenecen al sistema:",
+      "opciones": [
+        "Muscular",
+        "Esquelético",
+        "Respiratorio",
+        "Reproductor",
+        "Urinario"
+      ],
+      "respuesta_correcta": "B"
+    }
+  ]
+}
