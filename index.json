@@ -1,0 +1,10 @@
+[
+  {
+    "id": "bio_ecologia_01",
+    "titulo": "Ecología General – UNSCH",
+    "area": "Biología",
+    "nivel": "Admisión",
+    "preguntas": 25,
+    "archivo": "biologia/ecologia_01.json"
+  }
+]
