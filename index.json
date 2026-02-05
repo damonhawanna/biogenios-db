@@ -7,4 +7,13 @@
     "preguntas": 25,
     "archivo": "biologia/ecologia_01.json"
   }
+  {
+  "id": "bio_celula_01",
+  "titulo": "Biología Celular – Nivel Básico",
+  "area": "Biología",
+  "nivel": "Admisión",
+  "preguntas": 5,
+  "archivo": "biologia/celula_01.json"
+}
 ]
+
