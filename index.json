@@ -37,6 +37,14 @@
   "nivel": "Admisión",
   "preguntas": 25,
   "archivo": "biologia/biologia_general_01.json"
-}
+},
+{
+    "id": "citologia_feb_26",
+    "titulo": "Seminario de Biología Citología febrero 2026",
+    "area": "Biología",
+    "nivel": "Trampa",
+    "preguntas": 30,
+    "archivo": "biologia/citologia_feb_26.json"
+  }
 ]
 
