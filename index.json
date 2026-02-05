@@ -1,37 +1,34 @@
-[
-  {
+[  {
     "id": "bio_ecologia_01",
     "titulo": "Ecología General – UNSCH",
     "area": "Biología",
     "nivel": "Admisión",
     "preguntas": 25,
     "archivo": "biologia/ecologia_01.json"
+  },
+  {
+    "id": "bio_celula_01",
+    "titulo": "Biología Celular – Nivel Básico",
+    "area": "Biología",
+    "nivel": "Admisión",
+    "preguntas": 5,
+    "archivo": "biologia/celula_01.json"
+  },
+  {
+    "id": "bio_anatomia_01",
+    "titulo": "Anatomía Humana – Sistemas del Cuerpo",
+    "area": "Biología",
+    "nivel": "Admisión",
+    "preguntas": 5,
+    "archivo": "biologia/anatomia_01.json"
+  },
+  {
+    "id": "bio_ecologia_01",
+    "titulo": "Ecología General – Fundamentos",
+    "area": "Biología",
+    "nivel": "Admisión",
+    "preguntas": 5,
+    "archivo": "biologia/ecologia_01.json"
   }
-  {
-  "id": "bio_celula_01",
-  "titulo": "Biología Celular – Nivel Básico",
-  "area": "Biología",
-  "nivel": "Admisión",
-  "preguntas": 5,
-  "archivo": "biologia/celula_01.json"
-}
-  {
-  "id": "bio_anatomia_01",
-  "titulo": "Anatomía Humana – Sistemas del Cuerpo",
-  "area": "Biología",
-  "nivel": "Admisión",
-  "preguntas": 5,
-  "archivo": "biologia/anatomia_01.json"
-}
-  {
-  "id": "bio_ecologia_01",
-  "titulo": "Ecología General – Fundamentos",
-  "area": "Biología",
-  "nivel": "Admisión",
-  "preguntas": 5,
-  "archivo": "biologia/ecologia_01.json"
-}
-
-
 ]
 
