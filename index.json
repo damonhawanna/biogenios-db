@@ -15,5 +15,14 @@
   "preguntas": 5,
   "archivo": "biologia/celula_01.json"
 }
+  {
+  "id": "bio_anatomia_01",
+  "titulo": "Anatomía Humana – Sistemas del Cuerpo",
+  "area": "Biología",
+  "nivel": "Admisión",
+  "preguntas": 5,
+  "archivo": "biologia/anatomia_01.json"
+}
+
 ]
 
