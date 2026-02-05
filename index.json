@@ -29,6 +29,14 @@
     "nivel": "Admisión",
     "preguntas": 5,
     "archivo": "biologia/ecologia_01.json"
-  }
+  },
+    {
+  "id": "bio_general_01",
+  "titulo": "Biología General – UNSCH (Ciclo Verano)",
+  "area": "Biología",
+  "nivel": "Admisión",
+  "preguntas": 25,
+  "archivo": "biologia/biologia_general_01.json"
+}
 ]
 
