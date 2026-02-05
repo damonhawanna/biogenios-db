@@ -23,6 +23,15 @@
   "preguntas": 5,
   "archivo": "biologia/anatomia_01.json"
 }
+  {
+  "id": "bio_ecologia_01",
+  "titulo": "Ecología General – Fundamentos",
+  "area": "Biología",
+  "nivel": "Admisión",
+  "preguntas": 5,
+  "archivo": "biologia/ecologia_01.json"
+}
+
 
 ]
 
