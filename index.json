@@ -1,10 +1,10 @@
 [
   {
-    "id": "/citología_s4_2_26.json",
+    "id": "citología_s4_2_26.json",
     "titulo": "Seminario de Biología Citología febrero 2026",
     "area": "Biología",
     "nivel": "Trampa",
     "preguntas": 30,
-    "archivo": "biologia//citología_s4_2_26.json"
-  }
+    "archivo": "biologia/citología_s4_2_26.json"
+  },
 ]
