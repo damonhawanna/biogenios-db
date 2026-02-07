@@ -1,58 +1,10 @@
 [
   {
-    "id": "bio_ecologia_01",
-    "titulo": "Ecología General – UNSCH",
-    "area": "Biología",
-    "nivel": "Admisión",
-    "preguntas": 25,
-    "archivo": "biologia/ecologia_01.json"
-  },
-  {
-    "id": "bio_celula_01",
-    "titulo": "Biología Celular – Nivel Básico",
-    "area": "Biología",
-    "nivel": "Admisión",
-    "preguntas": 5,
-    "archivo": "biologia/celula_01.json"
-  },
-  {
-    "id": "bio_anatomia_01",
-    "titulo": "Anatomía Humana – Sistemas del Cuerpo",
-    "area": "Biología",
-    "nivel": "Admisión",
-    "preguntas": 5,
-    "archivo": "biologia/anatomia_01.json"
-  },
-  {
-    "id": "bio_ecologia_01",
-    "titulo": "Ecología General – Fundamentos",
-    "area": "Biología",
-    "nivel": "Admisión",
-    "preguntas": 5,
-    "archivo": "biologia/ecologia_01.json"
-  },
-  {
-    "id": "bio_general_01",
-    "titulo": "Biología General – UNSCH (Ciclo Verano)",
-    "area": "Biología",
-    "nivel": "Admisión",
-    "preguntas": 25,
-    "archivo": "biologia/biologia_general_01.json"
-  },
-  {
     "id": "citologia_feb_26",
     "titulo": "Seminario de Biología Citología febrero 2026",
     "area": "Biología",
     "nivel": "Trampa",
     "preguntas": 30,
     "archivo": "biologia/citologia_feb_26.json"
-  },
-  {
-    "id": "bio_test_01",
-    "titulo": "fast test para pruebas del programa",
-    "area": "Biología",
-    "nivel": "ETA-test-01",
-    "preguntas": 2,
-    "archivo": "biologia/bio_test_01.json"
   }
 ]
