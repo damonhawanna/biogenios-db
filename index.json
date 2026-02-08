@@ -16,6 +16,16 @@
       "area_id": "bio-cel",
       "nivel_id": "basico",
       "descripcion": "Un quiz para poner a prueba tus conocimientos sobre la estructura y función de la célula.",
+      "archivo": "citologia_s4_2026.json",
+      "version": 2,
+      "fecha_actualizacion": "2024-08-01"
+    },
+    {
+      "id": "bio-cel-01",
+      "titulo": "La Célula: Fundamentos",
+      "area_id": "bio-cel",
+      "nivel_id": "basico",
+      "descripcion": "Un quiz para poner a prueba tus conocimientos sobre la estructura y función de la célula.",
       "archivo": "quiz_celula_basico.json",
       "version": 2,
       "fecha_actualizacion": "2024-08-01"

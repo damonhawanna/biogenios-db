@@ -1,0 +1,26 @@
+  "tema": "La Célula: Fundamentos",
+  "preguntas": [
+    {
+      "question": "¿Cuál es el orgánulo encargado de la respiración celular?",
+      "options": [
+        "Ribosoma",
+        "Núcleo",
+        "Mitocondria",
+        "Aparato de Golgi"
+      ],
+      "correctAnswer": "C",
+      "explanation": "La mitocondria es conocida como la 'central energética' de la célula, donde ocurre la respiración celular para producir ATP."
+    },
+    {
+      "question": "La síntesis de proteínas se lleva a cabo en los:",
+      "options": [
+        "Lisosomas",
+        "Ribosomas",
+        "Centriolos",
+        "Vacuolas"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Los ribosomas son los sitios donde se ensamblan los aminoácidos para formar proteínas, siguiendo las instrucciones del ARN mensajero."
+    }
+  ]
+}
