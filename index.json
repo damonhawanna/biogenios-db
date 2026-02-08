@@ -1,21 +1,21 @@
 {
   "areas": [
-    { "id": "bio-cel", "nombre": "Biología Celular" },
-    { "id": "genetica", "nombre": "Genética" },
-    { "id": "ecologia", "nombre": "Ecología" }
+    { "id": "bio-cel", "nombre": "Citoología Sesión 04 2026" },
+    { "id": "bio-cel", "nombre": "La Célula: Fundamentos" }
   ],
   "niveles": [
+     { "id": "inicio", "nombre": "Inicio" },
     { "id": "basico", "nombre": "Básico" },
     { "id": "intermedio", "nombre": "Intermedio" },
     { "id": "avanzado", "nombre": "Avanzado" }
   ],
   "quizzes": [
     {
-      "id": "bio-cel-01",
-      "titulo": "La Célula: Fundamentos",
+      "id": "bio-cel-s4-2026",
+      "titulo": "Citoología Sesión 04 2026",
       "area_id": "bio-cel",
-      "nivel_id": "basico",
-      "descripcion": "Un quiz para poner a prueba tus conocimientos sobre la estructura y función de la célula.",
+      "nivel_id": "intermedio",
+      "descripcion": "Un quiz para evaluar tus conocimientos sobre la citología, incluyendo la estructura y función de las células, orgánulos y procesos celulares.",
       "archivo": "citologia_s4_2026.json",
       "version": 2,
       "fecha_actualizacion": "2024-08-01"
@@ -29,16 +29,6 @@
       "archivo": "quiz_celula_basico.json",
       "version": 2,
       "fecha_actualizacion": "2024-08-01"
-    },
-    {
-      "id": "gen-mendel-01",
-      "titulo": "Genética Mendeliana",
-      "area_id": "genetica",
-      "nivel_id": "intermedio",
-      "descripcion": "Leyes de Mendel, herencia y probabilidad en la genética clásica.",
-      "archivo": "quiz_genetica_mendel.json",
-      "version": 1,
-      "fecha_actualizacion": "2024-07-20"
     }
   ]
 }
