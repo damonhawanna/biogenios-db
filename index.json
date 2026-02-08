@@ -1,10 +1,34 @@
-[
-  {
-    "id": "citologia_s4_2_26",
-    "titulo": "Seminario de Biología: Citología sesión 04 verano 2026",
-    "area": "Biología",
-    "nivel": "Intermedio",
-    "preguntas": 20,
-    "archivo": "biologia/citologia_s4_2_26.json"
-  }
-]
+{
+  "areas": [
+    { "id": "bio-cel", "nombre": "Biología Celular" },
+    { "id": "genetica", "nombre": "Genética" },
+    { "id": "ecologia", "nombre": "Ecología" }
+  ],
+  "niveles": [
+    { "id": "basico", "nombre": "Básico" },
+    { "id": "intermedio", "nombre": "Intermedio" },
+    { "id": "avanzado", "nombre": "Avanzado" }
+  ],
+  "quizzes": [
+    {
+      "id": "bio-cel-01",
+      "titulo": "La Célula: Fundamentos",
+      "area_id": "bio-cel",
+      "nivel_id": "basico",
+      "descripcion": "Un quiz para poner a prueba tus conocimientos sobre la estructura y función de la célula.",
+      "archivo": "quiz_celula_basico.json",
+      "version": 2,
+      "fecha_actualizacion": "2024-08-01"
+    },
+    {
+      "id": "gen-mendel-01",
+      "titulo": "Genética Mendeliana",
+      "area_id": "genetica",
+      "nivel_id": "intermedio",
+      "descripcion": "Leyes de Mendel, herencia y probabilidad en la genética clásica.",
+      "archivo": "quiz_genetica_mendel.json",
+      "version": 1,
+      "fecha_actualizacion": "2024-07-20"
+    }
+  ]
+}
