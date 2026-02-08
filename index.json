@@ -1,10 +1,10 @@
 {
   "areas": [
-    { "id": "bio-cel", "nombre": "Citoología Sesión 04 2026" },
+     { "id": "bio-cel", "nombre": "Citoología Sesión 04 2026" },
     { "id": "bio-cel", "nombre": "La Célula: Fundamentos" }
   ],
   "niveles": [
-     { "id": "inicio", "nombre": "Inicio" },
+{ "id": "inicio", "nombre": "Inicio" },
     { "id": "basico", "nombre": "Básico" },
     { "id": "intermedio", "nombre": "Intermedio" },
     { "id": "avanzado", "nombre": "Avanzado" }
@@ -21,7 +21,7 @@
       "fecha_actualizacion": "2024-08-01"
     },
     {
-      "id": "bio-cel-01",
+        "id": "bio-cel-01",
       "titulo": "La Célula: Fundamentos",
       "area_id": "bio-cel",
       "nivel_id": "basico",
