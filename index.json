@@ -32,3 +32,26 @@
     }
   ]
 }
+
+[
+  {
+    "id": "biologia_celular_01",
+    "titulo": "Biología Celular: La Célula",
+    "area_id": "biologia",
+    "nivel_id": "secundaria",
+    "descripcion": "Pon a prueba tus conocimientos sobre la estructura y función de la célula.",
+    "archivo": "quiz_celula.json",
+    "version": 1,
+    "fecha_actualizacion": "2024-05-23"
+  },
+  {
+    "id": "genetica_basica_01",
+    "titulo": "Genética para Principiantes",
+    "area_id": "biologia",
+    "nivel_id": "bachillerato",
+    "descripcion": "Conceptos fundamentales de la genética y la herencia.",
+    "archivo": "quiz_genetica.json",
+    "version": 2,
+    "fecha_actualizacion": "2024-05-24"
+  }
+]

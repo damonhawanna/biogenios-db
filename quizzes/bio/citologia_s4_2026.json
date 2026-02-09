@@ -1,264 +1,264 @@
 {
   "tema": "Citoología Sesión 04 2026",
-  "questions": [
+  "preguntas": [
     {
       "id": 1,
-      "question": "¿Qué postulado de la teoría celular afirma que todas las funciones vitales de los seres vivos ocurren dentro de las células?",
-      "options": [
+      "pregunta": "¿Qué postulado de la teoría celular afirma que todas las funciones vitales de los seres vivos ocurren dentro de las células?",
+      "opciones": [
         "Todas las células contienen material genético",
         "Todas las células provienen de células preexistentes",
         "La célula es la unidad estructural y funcional de los seres vivos",
         "Todos los organismos realizan metabolismo",
         "Las células poseen membrana plasmática"
       ],
-      "correctAnswer": "C",
+      "respuesta_correcta": "C",
       "explanation": "El postulado que establece que la célula es la unidad estructural y funcional de los seres vivos es fundamental en la teoría celular, indicando que todas las funciones vitales ocurren dentro de las células."
     }
     {
       "id": 2,
-      "question": "El postulado \"Omnis cellula e cellula\" de la teoría celular fue propuesto para explicar que:",
-      "options": [
+      "pregunta": "El postulado \"Omnis cellula e cellula\" de la teoría celular fue propuesto para explicar que:",
+      "opciones": [
         "Las células contienen ADN",
         "Las células solo se originan a partir de células preexistentes",
         "Las células son microscópicas",
         "Las células realizan respiración celular",
         "Los organismos pluricelulares tienen tejidos"
       ],
-      "correctAnswer": "B",
+      "respuesta_correcta": "B",
       "explanation": "El postulado \"Omnis cellula e cellula\" fue propuesto por Rudolf Virchow para refutar la idea de la generación espontánea, estableciendo que todas las células provienen de células preexistentes."
     },
     {
       "id": 3,
-      "question": "¿Cuál de las siguientes estructuras está presente tanto en células procariotas como en eucariotas?",
-      "options": [
+      "pregunta": "¿Cuál de las siguientes estructuras está presente tanto en células procariotas como en eucariotas?",
+      "opciones": [
         "Mitocondria",
         "Núcleo",
         "Aparato de Golgi",
         "Membrana plasmática",
         "Retículo endoplasmático"
       ],
-      "correctAnswer": "D",
+      "respuesta_correcta": "D",
       "explanation": "La membrana plasmática es una estructura fundamental presente en todas las células, tanto procariotas como eucariotas, y es responsable de regular el paso de sustancias entre el interior y exterior de la célula."
     },
     {
       "id": 4,
-      "question": "Una característica distintiva de las células procariotas es que:",
-      "options": [
+      "pregunta": "Una característica distintiva de las células procariotas es que:",
+      "opciones": [
         "Poseen organelas membranosas",
         "Carecen de núcleo definido",
         "Tienen mitocondrias funcionales",
         "Presentan aparato de Golgi",
         "Poseen retículo endoplasmático"
       ],
-      "correctAnswer": "B",
+      "respuesta_correcta": "B",
       "explanation": "Las células procariotas carecen de núcleo definido, ya que su material genético no está rodeado por una membrana nuclear."
     },
     {
       "id": 5,
-      "question": "La principal función de la mitocondria en la célula eucariota es:",
-      "options": [
+      "pregunta": "La principal función de la mitocondria en la célula eucariota es:",
+      "opciones": [
         "La síntesis de proteínas",
         "La fotosíntesis",
         "La producción de ATP mediante respiración celular",
         "El almacenamiento de lípidos",
         "La digestión intracelular"
       ],
-      "correctAnswer": "C",
+      "respuesta_correcta": "C",
       "explanation": "La mitocondria es el orgánulo encargado de producir ATP mediante el proceso de respiración celular, que es fundamental para el metabolismo celular."
     },
     {
       "id": 6,
-      "question": "¿Cuál de los siguientes procesos corresponde a un transporte pasivo?",
-      "options": [
+      "pregunta": "¿Cuál de los siguientes procesos corresponde a un transporte pasivo?",
+      "opciones": [
         "Bomba sodio-potasio",
         "Endocitosis mediada por receptor",
         "Difusión simple",
         "Exocitosis",
         "Fagocitosis"
       ],
-      "correctAnswer": "C",
+      "respuesta_correcta": "C",
       "explanation": "La difusión simple es un proceso de transporte pasivo donde las moléculas se mueven desde un área de mayor concentración a una de menor concentración sin necesidad de energía."
     },
     {
       "id": 7,
-      "question": "La síntesis de proteínas se lleva a cabo directamente en:",
-      "options": [
+      "pregunta": "La síntesis de proteínas se lleva a cabo directamente en:",
+      "opciones": [
         "El aparato de Golgi",
         "Los ribosomas",
         "Las mitocondrias",
         "Los lisosomas",
         "El núcleo"
       ],
-      "correctAnswer": "B",
+      "respuesta_correcta": "B",
       "explanation": "Los ribosomas son los orgánulos donde se lleva a cabo la síntesis de proteínas, ensamblando aminoácidos según las instrucciones del ARN mensajero."
     },
     {
       "id": 8,
-      "question": "El retículo endoplasmático rugoso se caracteriza principalmente por:",
-      "options": [
+      "pregunta": "El retículo endoplasmático rugoso se caracteriza principalmente por:",
+      "opciones": [
         "Sintetizar lípidos",
         "Carecer de ribosomas",
         "Participar en la síntesis de proteínas destinadas a secreción",
         "Producir ATP",
         "Realizar digestión celular"
       ],
-      "correctAnswer": "C",
+      "respuesta_correcta": "C",
       "explanation": "El retículo endoplasmático rugoso está asociado con la síntesis de proteínas destinadas a la secreción o a la incorporación en membranas, debido a la presencia de ribosomas en su superficie."
     },
     {
       "id": 9,
-      "question": "El transporte activo se diferencia del pasivo porque:",
-      "options": [
+      "pregunta": "El transporte activo se diferencia del pasivo porque:",
+      "opciones": [
         "Siempre ocurre por difusión",
         "No utiliza proteínas",
         "Se realiza a favor del gradiente",
         "No requiere ATP",
         "Ocurre en contra del gradiente de concentración"
       ],
-      "correctAnswer": "E",
+      "respuesta_correcta": "E",
       "explanation": "El transporte activo se caracteriza por mover moléculas en contra de su gradiente de concentración, lo que requiere el gasto de energía en forma de ATP."
     },
     {
       "id": 10,
-      "question": "La estructura celular que regula selectivamente el paso de sustancias es:",
-      "options": [
+      "pregunta": "La estructura celular que regula selectivamente el paso de sustancias es:",
+      "opciones": [
         "La pared celular",
         "El citoplasma",
         "El núcleo",
         "La membrana plasmática",
         "El citoesqueleto"
       ],
-      "correctAnswer": "D",
+      "respuesta_correcta": "D",
       "explanation": "La membrana plasmática es la estructura que regula selectivamente el paso de sustancias hacia adentro y hacia afuera de la célula, manteniendo la homeostasis celular."
     },
     {
       "id": 11,
-      "question": "Las células animales se diferencian de las vegetales porque carecen de:",
-      "options": [
+      "pregunta": "Las células animales se diferencian de las vegetales porque carecen de:",
+      "opciones": [
         "Mitocondrias",
         "Núcleo",
         "Pared celular",
         "Ribosomas",
         "Membrana plasmática"
       ],
-      "correctAnswer": "C",
+      "respuesta_correcta": "C",
       "explanation": "Las células animales carecen de pared celular, una estructura rígida que proporciona soporte y protección a las células vegetales."
     },
     {
       "id": 12,
-      "question": "La función principal de los lisosomas es:",
-      "options": [
+      "pregunta": "La función principal de los lisosomas es:",
+      "opciones": [
         "Sintetizar proteínas",
         "Almacenar glucógeno",
         "Producir energía",
         "Realizar digestión intracelular",
         "Transportar lípidos"
       ],
-      "correctAnswer": "D",
+      "respuesta_correcta": "D",
       "explanation": "Los lisosomas contienen enzimas digestivas que permiten la degradación de macromoléculas y desechos celulares.",
     },
     {
       "id": 13,
-      "question": "Los cloroplastos permiten a las células vegetales:",
-      "options": [
+      "pregunta": "Los cloroplastos permiten a las células vegetales:",
+      "opciones": [
         "Realizar respiración anaerobia",
         "Sintetizar ATP sin luz",
         "Llevar a cabo la fotosíntesis",
         "Almacenar proteínas",
         "Degradar sustancias tóxicas"
       ],
-      "correctAnswer": "C",
+      "respuesta_correcta": "C",
       "explanation": "Los cloroplastos son orgánulos presentes en las células vegetales que permiten llevar a cabo la fotosíntesis, un proceso mediante el cual se convierte la energía lumínica en energía química almacenada en moléculas de glucosa."
     },
     {
       "id": 14,
-      "question": "Una célula procariota carece generalmente de:",
-      "options": [
+      "pregunta": "Una célula procariota carece generalmente de:",
+      "opciones": [
         "Ribosomas",
         "ADN",
         "Membrana plasmática",
         "Mitocondrias",
         "Citoplasma"
       ],
-      "correctAnswer": "D",
+      "respuesta_correcta": "D",
       "explanation": "Las células procariotas carecen de mitocondrias, ya que no tienen orgánulos membranosos. En cambio, realizan la respiración celular en la membrana plasmática."
     },
     {
       "id": 15,
-      "question": "La exocitosis es un proceso celular que permite:",
-      "options": [
+      "pregunta": "La exocitosis es un proceso celular que permite:",
+      "opciones": [
         "La entrada de agua por ósmosis",
         "La salida de sustancias al exterior mediante vesículas",
         "El paso directo de gases",
         "La división del núcleo",
         "El transporte pasivo"
       ],
-      "correctAnswer": "B",
+      "respuesta_correcta": "B",
       "explanation": "La exocitosis es un proceso mediante el cual las células expulsan sustancias al exterior a través de vesículas que se fusionan con la membrana plasmática."
     },
     {
       "id": 16,
-      "question": "¿Qué tipo de transporte utiliza proteínas de membrana sin gasto de ATP?",
-      "options": [
+      "pregunta": "¿Qué tipo de transporte utiliza proteínas de membrana sin gasto de ATP?",
+      "opciones": [
         "Transporte activo primario",
         "Difusión facilitada",
         "Endocitosis",
         "Fagocitosis",
         "Exocitosis"
       ],
-      "correctAnswer": "B",
+      "respuesta_correcta": "B",
       "explanation": "La difusión facilitada es un tipo de transporte pasivo que utiliza proteínas de membrana para ayudar al movimiento de moléculas a través de la membrana sin requerir energía."
     },
     {
       "id": 17,
-      "question": "El aparato de Golgi participa principalmente en:",
-      "options": [
+      "pregunta": "El aparato de Golgi participa principalmente en:",
+      "opciones": [
         "La síntesis de ATP",
         "La modificación, clasificación y empaquetamiento de proteínas",
         "La replicación del ADN",
         "La digestión celular",
         "La fotosíntesis"
       ],
-      "correctAnswer": "B",
+      "respuesta_correcta": "B",
       "explanation": "El aparato de Golgi es un orgánulo que se encarga de modificar, clasificar y empaquetar proteínas y lípidos para su transporte a diferentes destinos dentro o fuera de la célula."
     },
     {
       "id": 18,
-      "question": "Una diferencia estructural clave entre la célula vegetal y la animal es que la vegetal:",
-      "options": [
+      "pregunta": "Una diferencia estructural clave entre la célula vegetal y la animal es que la vegetal:",
+      "opciones": [
         "Carece de mitocondrias",
         "Presenta cloroplastos y pared celular",
         "No posee núcleo",
         "Tiene centríolos",
         "No realiza respiración celular"
       ],
-      "correctAnswer": "B",
+      "respuesta_correcta": "B",
       "explanation": "La célula vegetal se diferencia de la animal principalmente por la presencia de cloroplastos, que permiten la fotosíntesis, y una pared celular que proporciona soporte estructural."
     },
     {
       "id": 19,
-      "question": "Las mitocondrias son consideradas centrales energéticas porque:",
-      "options": [
+      "pregunta": "Las mitocondrias son consideradas centrales energéticas porque:",
+      "opciones": [
         "Almacenan glucosa",
         "Producen ATP mediante fosforilación oxidativa",
         "Realizan fotosíntesis",
         "Sintetizan proteínas",
         "Degradan desechos"
       ],
-      "correctAnswer": "B",
+      "respuesta_correcta": "B",
       "explanation": "Las mitocondrias producen ATP mediante el proceso de fosforilación oxidativa, que es la principal fuente de energía para las actividades celulares."
     },
     {
       "id": 20,
-      "question": "Las proteínas de canal y transportadoras cumplen la función de:",
-      "options": [
+      "pregunta": "Las proteínas de canal y transportadoras cumplen la función de:",
+      "opciones": [
         "Formar la bicapa lipídica",
         "Transportar moléculas específicas a través de la membrana",
         "Sintetizar ATP",
         "Degradar macromoléculas",
         "Proteger al ADN"
       ],
-      "correctAnswer": "B", 
+      "respuesta_correcta": "B", 
       "explanation": "Las proteínas de canal y transportadoras facilitan el transporte de moléculas específicas a través de la membrana plasmática, ya sea por difusión facilitada o transporte activo."
     }
   ]
