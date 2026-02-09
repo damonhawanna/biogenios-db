@@ -1,7 +1,8 @@
 {
  "tema": "La Célula: Fundamentos",
-  "preguntas": [
+  "questions": [
     {
+      "id": "q1",
       "question": "¿Cuál es el orgánulo encargado de la respiración celular?",
       "options": [
         "Ribosoma",
@@ -13,6 +14,7 @@
       "explanation": "La mitocondria es conocida como la 'central energética' de la célula, donde ocurre la respiración celular para producir ATP."
     },
     {
+      "id": "q2",
       "question": "La síntesis de proteínas se lleva a cabo en los:",
       "options": [
         "Lisosomas",

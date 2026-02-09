@@ -1,7 +1,7 @@
 {
   "areas": [
      { "id": "bio", "nombre": "Biología" },
-    { "id": "mat", "nombre": "Matemática" }
+    { "id": "gen", "nombre": "Genética" }
   ],
   "niveles": [
 { "id": "inicio", "nombre": "Inicio" },
@@ -16,17 +16,17 @@
       "area_id": "bio",
       "nivel_id": "intermedio",
       "descripcion": "Un quiz para evaluar tus conocimientos sobre la citología, incluyendo la estructura y función de las células, orgánulos y procesos celulares.",
-      "archivo": "quizzes/bio/citologia_s4_2026.json",
+      "archivo": "/quizzes/bio/citologia_s4_2026.json",
       "version": 3,
       "fecha_actualizacion": "2024-08-01"
     },
     {
-        "id": "bio-quiz-ejemplo-1",
+        "id": "celula-basico",
       "titulo": "La Célula: Fundamentos",
       "area_id": "gen",
       "nivel_id": "basico",
       "descripcion": "Un quiz para poner a prueba tus conocimientos sobre la estructura y función de la célula.",
-      "archivo": "quizzes/gen/celula_basico.json",
+      "archivo": "/quizzes/gen/celula_basico.json",
       "version": 3,
       "fecha_actualizacion": "2024-08-01"
     }
